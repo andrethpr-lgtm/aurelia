@@ -459,3 +459,140 @@ Consulta el archivo [`LICENSE`](LICENSE) para conocer los términos completos.
 **EXPLORE · UNDERSTAND · EXPERIENCE**
 
 </div>
+---
+
+## 🎼 INTENCIÓN MUSICAL
+
+Aurelia nace como una experiencia digital dedicada a explorar la música desde una perspectiva visual, cultural y tecnológica.
+
+Su intención es transformar la información musical en una experiencia clara, atractiva e interactiva, permitiendo descubrir géneros, instrumentos, características sonoras y diferentes formas de expresión musical.
+
+Más que presentar una colección de datos, Aurelia busca construir un pequeño universo digital en el que la música pueda explorarse, compararse y comprenderse de una manera diferente.
+
+> **La música no solamente se escucha: también se explora, se interpreta y se descubre.**
+
+---
+
+## 🌌 UNIVERSO MUSICAL
+
+El universo de Aurelia está construido alrededor de diferentes dimensiones de la música.
+
+### 🎧 Géneros
+
+Aurelia explora distintos géneros musicales y sus principales características, considerando aspectos como:
+
+- Origen e identidad cultural.
+- Evolución histórica.
+- Características sonoras.
+- Ritmo y estructura.
+- Instrumentación.
+- Influencia en otros géneros.
+- Contexto cultural.
+
+### 🎹 Instrumentación
+
+Los instrumentos permiten comprender cómo se construye el sonido dentro de una composición.
+
+Aurelia considera diferentes familias instrumentales:
+
+- 🎸 **Cuerda**
+- 🥁 **Percusión**
+- 🎹 **Teclado**
+- 🎷 **Viento**
+- 🎻 **Cuerda frotada**
+- 🎛️ **Electrónicos y digitales**
+
+### 🌍 Cultura musical
+
+La música también funciona como una representación de la identidad de diferentes sociedades.
+
+Por ello, Aurelia busca relacionar los géneros musicales con sus contextos culturales, históricos y sociales.
+
+---
+
+## 🎻 INSTRUMENTOS
+
+Los instrumentos constituyen uno de los elementos fundamentales del universo musical de Aurelia.
+
+Cada instrumento aporta características particulares relacionadas con el timbre, la intensidad, el registro y la forma en que puede participar dentro de una composición.
+
+### 🎸 Cuerda
+
+Los instrumentos de cuerda producen sonido mediante la vibración de sus cuerdas.
+
+Ejemplos:
+
+- Guitarra
+- Violín
+- Viola
+- Violonchelo
+- Contrabajo
+- Bajo eléctrico
+
+### 🥁 Percusión
+
+Los instrumentos de percusión producen sonido principalmente mediante golpes, sacudidas o fricción.
+
+Ejemplos:
+
+- Batería
+- Cajón
+- Bongó
+- Timbales
+- Marimba
+
+### 🎹 Teclado
+
+Los instrumentos de teclado utilizan un conjunto de teclas para producir o controlar diferentes sonidos.
+
+Ejemplos:
+
+- Piano
+- Órgano
+- Sintetizador
+- Teclado electrónico
+
+### 🎷 Viento
+
+Los instrumentos de viento producen sonido mediante la vibración de una columna de aire.
+
+Ejemplos:
+
+- Saxofón
+- Flauta
+- Clarinete
+- Trompeta
+- Trombón
+
+### 🎛️ Electrónicos y digitales
+
+La tecnología ha permitido desarrollar instrumentos capaces de generar, modificar y procesar sonidos digitalmente.
+
+Ejemplos:
+
+- Sintetizadores
+- Samplers
+- Controladores MIDI
+- Cajas de ritmos
+
+---
+
+## ✦ CONEXIÓN ENTRE MÚSICA Y TECNOLOGÍA
+
+Aurelia combina conceptos musicales con una experiencia digital moderna.
+
+El proyecto plantea una relación entre:
+
+**MÚSICA → INFORMACIÓN → EXPLORACIÓN → TECNOLOGÍA → EXPERIENCIA**
+
+Esta conexión permite imaginar una plataforma en la que los usuarios puedan descubrir información musical de forma visual, organizada e interactiva.
+
+---
+
+### 🔭 VISIÓN DE AURELIA
+
+Aurelia no busca limitarse a mostrar información.
+
+Su visión es evolucionar progresivamente hacia una experiencia musical interactiva capaz de integrar descubrimiento, análisis, visualización y exploración.
+
+> **Aurelia — donde la información musical se convierte en una experiencia.**
