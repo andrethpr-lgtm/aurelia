@@ -596,3 +596,31 @@ Aurelia no busca limitarse a mostrar información.
 Su visión es evolucionar progresivamente hacia una experiencia musical interactiva capaz de integrar descubrimiento, análisis, visualización y exploración.
 
 > **Aurelia — donde la información musical se convierte en una experiencia.**
+---
+
+# 🧠 ARQUITECTURA CONCEPTUAL
+
+Aurelia está planteada como una experiencia digital modular.
+
+Su estructura conceptual puede representarse mediante cuatro niveles:
+
+```text
+┌─────────────────────────────┐
+│       EXPERIENCIA           │
+│     Interacción musical     │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│       VISUALIZACIÓN         │
+│ Información + exploración   │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│       INTELIGENCIA          │
+│ Análisis + organización     │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│          DATOS              │
+│ Géneros + instrumentos      │
+└─────────────────────────────┘
