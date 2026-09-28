@@ -624,3 +624,41 @@ Su estructura conceptual puede representarse mediante cuatro niveles:
 │          DATOS              │
 │ Géneros + instrumentos      │
 └─────────────────────────────┘
+---
+
+# 🌐 EXPERIENCIA WEB
+
+Aurelia está concebida para evolucionar hacia una experiencia web moderna, visual e interactiva.
+
+La futura interfaz buscará combinar información musical, navegación intuitiva y elementos visuales capaces de representar diferentes características de la música.
+
+## ⚡ Experiencia prevista
+
+La plataforma podrá organizar su experiencia alrededor de:
+
+- 🏠 Inicio.
+- 🎧 Explorador musical.
+- 🎼 Géneros.
+- 🎻 Instrumentos.
+- 🌍 Cultura musical.
+- 🔎 Búsqueda.
+- 🧠 Análisis.
+- 📊 Visualizaciones.
+- ⭐ Favoritos.
+
+---
+
+# 🖥️ CONCEPTO DE INTERFAZ
+
+La interfaz de Aurelia seguirá una filosofía centrada en:
+
+```text
+INFORMACIÓN
+     +
+DISEÑO
+     +
+INTERACCIÓN
+     +
+VISUALIZACIÓN
+     =
+EXPERIENCIA MUSICAL
